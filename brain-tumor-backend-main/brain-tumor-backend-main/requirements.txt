@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pillow==10.3.0
+numpy==1.26.4
+requests==2.32.2
+
+# TensorFlow: use macOS build locally, CPU build on Linux (Render)
+tensorflow-macos==2.16.1; sys_platform == "darwin"
+tensorflow-cpu==2.16.1; sys_platform != "darwin"

@@ -30,4 +30,4 @@ Misclassification Reduction: Improved robustness across four tumor categories.
 Confusion matrix and evaluation metrics are included in the notebook/scripts.
 
 Key Skills / Technologies
-Python, TensorFlow, Keras, CNN, ResNet50, Transfer Learning, Image Classification, Medical Image Analysis, Data Preprocessing, Model Evaluation, Deep Learning, Computer Vision
+Python, TensorFlow, Keras, CNN, ResNet50, Transfer Learning, Fast API, Image Classification, Medical Image Analysis, Data Preprocessing, Model Evaluation, Deep Learning, Computer Vision
